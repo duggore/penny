@@ -13,7 +13,11 @@ This is the estimate & billing software used by About Blank Design Office
 		
         curl -sS https://getcomposer.org/installer | php
         php composer.phar install
-    
-3. Run the `vendor` script to copy ressources from composer 
+ 
+3. Install **Grunt** via Node
+
+        npm install
+   
+4. Run the `vendor` script to copy ressources from composer 
 
         grunt vendor
