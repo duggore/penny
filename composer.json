@@ -1,0 +1,8 @@
+{
+  "config": {
+    "vendor-dir": "composer_components"
+  },
+  "require": {
+    "pug-php/pug": "^1.11"
+  }
+}
